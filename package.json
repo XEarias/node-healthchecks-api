@@ -25,14 +25,19 @@
       "name": "Waldek Kozba",
       "email": "100assc@gmail.com",
       "url": "https://github.com/valdemon"
+    },
+    {
+      "name": "Xavier Arias",
+      "email": "xarias13@gmail.com",
+      "url": "https://github.com/XEarias"
     }
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bauer-Xcel-Media/node-healthchecks-api.git"
+    "url": "https://github.com/XEarias/node-healthchecks-api"
   },
-  "bugs": "https://github.com/Bauer-Xcel-Media/node-healthchecks-api/issues",
+  "bugs": "https://github.com/XEarias/node-healthchecks-api/issues",
   "engines": {
     "node": ">=8.0.0"
   },
@@ -46,6 +51,7 @@
     "mongodb": "^3.1.4",
     "mysql": "^2.16.0",
     "os-utils": "0.0.14",
+    "pg": "^7.17.1",
     "redis": "^2.8.0",
     "superagent": "^5.0.2",
     "superagent-no-cache": "^0.1.1"
